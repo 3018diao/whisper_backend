@@ -1,0 +1,33 @@
+2024-12-11 02:53:57,101 - __main__ - INFO - 服务启动，日志文件: logs/app_20241211_025357.log
+2024-12-11 02:53:57,594 - __mp_main__ - INFO - 服务启动，日志文件: logs/app_20241211_025357.log
+2024-12-11 02:53:57,622 - main - INFO - 服务启动，日志文件: logs/app_20241211_025357.log
+2024-12-11 02:53:57,626 - uvicorn.error - INFO - Started server process [281103]
+2024-12-11 02:53:57,626 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-11 02:53:57,626 - uvicorn.error - INFO - Application startup complete.
+2024-12-11 02:54:01,816 - uvicorn.error - INFO - ('127.0.0.1', 38850) - "WebSocket /ws" [accepted]
+2024-12-11 02:54:01,816 - main - INFO - WebSocket connection accepted
+2024-12-11 02:54:01,816 - uvicorn.error - INFO - connection open
+2024-12-11 02:54:02,000 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1476.43
+2024-12-11 02:54:02,259 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1451.01
+2024-12-11 02:54:02,771 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=3204.72
+2024-12-11 02:54:03,028 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=2845.19
+2024-12-11 02:54:03,029 - main - INFO - 保存累积音频数据: outputs/temp_1733882043.raw, 时长: 1.02秒
+2024-12-11 02:54:03,038 - main - INFO - 处理结果: []
+2024-12-11 02:54:03,038 - main - INFO - Cleaned up outputs/temp_1733882043.raw
+2024-12-11 02:54:03,278 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=2111.98
+2024-12-11 02:54:03,539 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=938.73
+2024-12-11 02:54:03,788 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=736.36
+2024-12-11 02:54:04,048 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1189.16
+2024-12-11 02:54:04,049 - main - INFO - 保存累积音频数据: outputs/temp_1733882044.raw, 时长: 1.02秒
+2024-12-11 02:54:04,058 - main - INFO - 处理结果: []
+2024-12-11 02:54:04,058 - main - INFO - Cleaned up outputs/temp_1733882044.raw
+2024-12-11 02:54:04,819 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1201.77
+2024-12-11 02:54:10,577 - uvicorn.error - INFO - Shutting down
+2024-12-11 02:54:10,578 - main - INFO - WebSocket disconnected in audio processing
+2024-12-11 02:54:10,578 - main - INFO - 音频处理任务结束
+2024-12-11 02:54:10,579 - uvicorn.error - INFO - connection closed
+2024-12-11 02:54:10,579 - main - ERROR - 关闭WebSocket连接出错: Unexpected ASGI message 'websocket.close', after sending 'websocket.close' or response already completed.
+2024-12-11 02:54:10,678 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-11 02:54:10,679 - main - INFO - Application shutting down
+2024-12-11 02:54:10,679 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-11 02:54:10,679 - uvicorn.error - INFO - Finished server process [281103]

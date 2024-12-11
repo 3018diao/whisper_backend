@@ -1,0 +1,80 @@
+2024-12-11 02:58:20,121 - __main__ - INFO - 服务启动，日志文件: logs/app_20241211_025820.log
+2024-12-11 02:58:20,597 - __mp_main__ - INFO - 服务启动，日志文件: logs/app_20241211_025820.log
+2024-12-11 02:58:20,619 - main - INFO - 服务启动，日志文件: logs/app_20241211_025820.log
+2024-12-11 02:58:20,622 - uvicorn.error - INFO - Started server process [284016]
+2024-12-11 02:58:20,622 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-11 02:58:20,623 - uvicorn.error - INFO - Application startup complete.
+2024-12-11 02:58:25,603 - uvicorn.access - INFO - 127.0.0.1:56962 - "GET / HTTP/1.1" 200
+2024-12-11 02:58:27,011 - uvicorn.error - INFO - ('127.0.0.1', 57006) - "WebSocket /ws" [accepted]
+2024-12-11 02:58:27,012 - main - INFO - WebSocket connection accepted
+2024-12-11 02:58:27,012 - uvicorn.error - INFO - connection open
+2024-12-11 02:58:27,312 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=4304.94
+2024-12-11 02:58:27,562 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=2765.27
+2024-12-11 02:58:27,822 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1369.87
+2024-12-11 02:58:28,082 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=510.25
+2024-12-11 02:58:28,592 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1184.71
+2024-12-11 02:58:28,842 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=879.94
+2024-12-11 02:58:29,101 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1214.88
+2024-12-11 02:58:29,362 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1816.65
+2024-12-11 02:58:29,362 - main - INFO - 合并音频数据: 32768 样本
+2024-12-11 02:58:29,363 - main - INFO - 音频统计: 平均音量=1755.81, 最大音量=32767.00
+2024-12-11 02:58:29,364 - main - INFO - 保存累积音频数据: outputs/temp_1733882309.raw, 时长: 2.05秒
+2024-12-11 02:58:29,822 - main - ERROR - 音频处理错误: Whisper处理失败: init: found 1 capture devices:
+init:    - Capture device #0: 'RDP Source'
+init: attempt to open default capture device ...
+init: obtained spec for input device (SDL Id = 2):
+init:     - sample rate:       16000
+init:     - format:            33056 (required: 33056)
+init:     - channels:          1 (required: 1)
+init:     - samples per frame: 1024
+whisper_init_from_file_with_params_no_state: loading model from '/home/huiyu/whisper.cpp/models/ggml-tiny.bin'
+whisper_init_with_params_no_state: use gpu    = 1
+whisper_init_with_params_no_state: flash attn = 0
+whisper_init_with_params_no_state: gpu_device = 0
+whisper_init_with_params_no_state: dtw        = 0
+whisper_model_load: loading model
+whisper_model_load: n_vocab       = 51865
+whisper_model_load: n_audio_ctx   = 1500
+whisper_model_load: n_audio_state = 384
+whisper_model_load: n_audio_head  = 6
+whisper_model_load: n_audio_layer = 4
+whisper_model_load: n_text_ctx    = 448
+whisper_model_load: n_text_state  = 384
+whisper_model_load: n_text_head   = 6
+whisper_model_load: n_text_layer  = 4
+whisper_model_load: n_mels        = 80
+whisper_model_load: ftype         = 1
+whisper_model_load: qntvr         = 0
+whisper_model_load: type          = 1 (tiny)
+whisper_model_load: adding 1608 extra tokens
+whisper_model_load: n_langs       = 99
+whisper_model_load:      CPU total size =    77.11 MB
+whisper_model_load: model size    =   77.11 MB
+whisper_init_state: kv self size  =    3.15 MB
+whisper_init_state: kv cross size =    9.44 MB
+whisper_init_state: kv pad  size  =    2.36 MB
+whisper_init_state: compute buffer (conv)   =   13.19 MB
+whisper_init_state: compute buffer (encode) =   64.79 MB
+whisper_init_state: compute buffer (cross)  =    3.88 MB
+whisper_init_state: compute buffer (decode) =   95.89 MB
+
+main: processing 8000 samples (step = 0.5 sec / len = 5.0 sec / keep = 0.2 sec), 8 threads, lang = en, task = transcribe, timestamps = 0 ...
+main: n_new_line = 9, no_context = 1
+
+main: failed to open output file 'outputs/temp_1733882309.wav'!
+
+2024-12-11 02:58:29,824 - main - INFO - Cleaned up outputs/temp_1733882309.raw
+2024-12-11 02:58:29,824 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=3540.83
+2024-12-11 02:58:29,872 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=3567.90
+2024-12-11 02:58:31,922 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=924.26
+2024-12-11 02:58:32,171 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1139.67
+2024-12-11 02:58:32,432 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1349.69
+2024-12-11 02:59:17,062 - uvicorn.error - INFO - Shutting down
+2024-12-11 02:59:17,063 - main - INFO - WebSocket disconnected in audio processing
+2024-12-11 02:59:17,063 - main - INFO - 音频处理任务结束
+2024-12-11 02:59:17,064 - uvicorn.error - INFO - connection closed
+2024-12-11 02:59:17,064 - main - ERROR - 关闭WebSocket连接出错: Unexpected ASGI message 'websocket.close', after sending 'websocket.close' or response already completed.
+2024-12-11 02:59:17,164 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-11 02:59:17,164 - main - INFO - Application shutting down
+2024-12-11 02:59:17,164 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-11 02:59:17,164 - uvicorn.error - INFO - Finished server process [284016]

@@ -1,0 +1,453 @@
+2024-12-11 02:50:12,707 - uvicorn.error - INFO - Started server process [278440]
+2024-12-11 02:50:12,707 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-11 02:50:12,707 - uvicorn.error - INFO - Application startup complete.
+2024-12-11 02:50:16,022 - uvicorn.access - INFO - 127.0.0.1:39860 - "GET / HTTP/1.1" 200
+2024-12-11 02:50:18,724 - uvicorn.error - INFO - ('127.0.0.1', 39880) - "WebSocket /ws" [accepted]
+2024-12-11 02:50:18,724 - main - INFO - WebSocket connection accepted
+2024-12-11 02:50:18,725 - uvicorn.error - INFO - connection open
+2024-12-11 02:50:19,535 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:19,535 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=5584.31
+2024-12-11 02:50:19,535 - main - INFO - 保存音频数据到文件: outputs/temp_1733881819.raw, 大小: 4096 bytes
+2024-12-11 02:50:19,980 - main - INFO - 处理结果: []
+2024-12-11 02:50:19,980 - main - WARNING - 未识别到文本
+2024-12-11 02:50:19,981 - main - INFO - Cleaned up outputs/temp_1733881819.raw
+2024-12-11 02:50:19,981 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:19,982 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=3801.73
+2024-12-11 02:50:19,982 - main - INFO - 保存音频数据到文件: outputs/temp_1733881819.raw, 大小: 4096 bytes
+2024-12-11 02:50:20,012 - main - INFO - 处理结果: []
+2024-12-11 02:50:20,013 - main - WARNING - 未识别到文本
+2024-12-11 02:50:20,013 - main - INFO - Cleaned up outputs/temp_1733881819.raw
+2024-12-11 02:50:20,044 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:20,045 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1260.83
+2024-12-11 02:50:20,045 - main - INFO - 保存音频数据到文件: outputs/temp_1733881820.raw, 大小: 4096 bytes
+2024-12-11 02:50:20,074 - main - INFO - 处理结果: []
+2024-12-11 02:50:20,074 - main - WARNING - 未识别到文本
+2024-12-11 02:50:20,074 - main - INFO - Cleaned up outputs/temp_1733881820.raw
+2024-12-11 02:50:20,304 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:20,305 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=608.07
+2024-12-11 02:50:20,305 - main - INFO - 保存音频数据到文件: outputs/temp_1733881820.raw, 大小: 4096 bytes
+2024-12-11 02:50:20,334 - main - INFO - 处理结果: []
+2024-12-11 02:50:20,334 - main - WARNING - 未识别到文本
+2024-12-11 02:50:20,334 - main - INFO - Cleaned up outputs/temp_1733881820.raw
+2024-12-11 02:50:20,554 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:20,555 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=908.45
+2024-12-11 02:50:20,555 - main - INFO - 保存音频数据到文件: outputs/temp_1733881820.raw, 大小: 4096 bytes
+2024-12-11 02:50:20,588 - main - INFO - 处理结果: []
+2024-12-11 02:50:20,588 - main - WARNING - 未识别到文本
+2024-12-11 02:50:20,588 - main - INFO - Cleaned up outputs/temp_1733881820.raw
+2024-12-11 02:50:20,815 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:20,815 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=996.25
+2024-12-11 02:50:20,816 - main - INFO - 保存音频数据到文件: outputs/temp_1733881820.raw, 大小: 4096 bytes
+2024-12-11 02:50:20,854 - main - INFO - 处理结果: []
+2024-12-11 02:50:20,854 - main - WARNING - 未识别到文本
+2024-12-11 02:50:20,854 - main - INFO - Cleaned up outputs/temp_1733881820.raw
+2024-12-11 02:50:21,074 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:21,075 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1000.50
+2024-12-11 02:50:21,075 - main - INFO - 保存音频数据到文件: outputs/temp_1733881821.raw, 大小: 4096 bytes
+2024-12-11 02:50:21,103 - main - INFO - 处理结果: []
+2024-12-11 02:50:21,103 - main - WARNING - 未识别到文本
+2024-12-11 02:50:21,103 - main - INFO - Cleaned up outputs/temp_1733881821.raw
+2024-12-11 02:50:21,324 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:21,325 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=3210.04
+2024-12-11 02:50:21,325 - main - INFO - 保存音频数据到文件: outputs/temp_1733881821.raw, 大小: 4096 bytes
+2024-12-11 02:50:21,356 - main - INFO - 处理结果: []
+2024-12-11 02:50:21,357 - main - WARNING - 未识别到文本
+2024-12-11 02:50:21,357 - main - INFO - Cleaned up outputs/temp_1733881821.raw
+2024-12-11 02:50:21,584 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:21,585 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=7222.44
+2024-12-11 02:50:21,585 - main - INFO - 保存音频数据到文件: outputs/temp_1733881821.raw, 大小: 4096 bytes
+2024-12-11 02:50:21,614 - main - INFO - 处理结果: []
+2024-12-11 02:50:21,615 - main - WARNING - 未识别到文本
+2024-12-11 02:50:21,615 - main - INFO - Cleaned up outputs/temp_1733881821.raw
+2024-12-11 02:50:21,834 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:21,835 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=621.41
+2024-12-11 02:50:21,835 - main - INFO - 保存音频数据到文件: outputs/temp_1733881821.raw, 大小: 4096 bytes
+2024-12-11 02:50:21,862 - main - INFO - 处理结果: []
+2024-12-11 02:50:21,862 - main - WARNING - 未识别到文本
+2024-12-11 02:50:21,863 - main - INFO - Cleaned up outputs/temp_1733881821.raw
+2024-12-11 02:50:22,094 - main - INFO - 接收到音频数据: 8200 bytes
+2024-12-11 02:50:22,094 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1512.04
+2024-12-11 02:50:22,095 - main - INFO - 保存音频数据到文件: outputs/temp_1733881822.raw, 大小: 4096 bytes
+2024-12-11 02:50:22,126 - main - INFO - 处理结果: []
+2024-12-11 02:50:22,126 - main - WARNING - 未识别到文本
+2024-12-11 02:50:22,126 - main - INFO - Cleaned up outputs/temp_1733881822.raw
+2024-12-11 02:50:30,652 - uvicorn.error - INFO - Shutting down
+2024-12-11 02:50:30,653 - main - INFO - WebSocket disconnected in audio processing
+2024-12-11 02:50:30,653 - main - INFO - 音频处理任务结束
+2024-12-11 02:50:30,653 - uvicorn.error - INFO - connection closed
+2024-12-11 02:50:30,654 - main - ERROR - 关闭WebSocket连接出错: Unexpected ASGI message 'websocket.close', after sending 'websocket.close' or response already completed.
+2024-12-11 02:50:30,753 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-11 02:50:30,754 - main - INFO - Application shutting down
+2024-12-11 02:50:30,754 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-11 02:50:30,754 - uvicorn.error - INFO - Finished server process [278440]
+2024-12-11 02:51:33,337 - uvicorn.error - INFO - Started server process [279397]
+2024-12-11 02:51:33,338 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-11 02:51:33,338 - uvicorn.error - INFO - Application startup complete.
+2024-12-11 02:51:36,952 - uvicorn.access - INFO - 127.0.0.1:39322 - "GET / HTTP/1.1" 200
+2024-12-11 02:51:38,729 - uvicorn.error - INFO - ('127.0.0.1', 39350) - "WebSocket /ws" [accepted]
+2024-12-11 02:51:38,729 - main - INFO - WebSocket connection accepted
+2024-12-11 02:51:38,730 - uvicorn.error - INFO - connection open
+2024-12-11 02:51:38,730 - main - ERROR - 处理音频数据时出错: 'function' object has no attribute 'is_set'
+2024-12-11 02:51:38,730 - main - INFO - 音频处理任务结束
+2024-12-11 02:51:38,731 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 242, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/errors.py", line 152, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 362, in handle
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 95, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 93, in app
+    await func(session)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/routing.py", line 383, in app
+    await dependant.call(**solved_result.values)
+  File "/home/huiyu/python_whisper/backend/main.py", line 267, in websocket_endpoint
+    shutdown_event.set()
+AttributeError: 'function' object has no attribute 'set'
+2024-12-11 02:51:38,742 - uvicorn.error - INFO - connection closed
+2024-12-11 02:51:42,915 - uvicorn.error - INFO - ('127.0.0.1', 39360) - "WebSocket /ws" [accepted]
+2024-12-11 02:51:42,915 - main - INFO - WebSocket connection accepted
+2024-12-11 02:51:42,916 - uvicorn.error - INFO - connection open
+2024-12-11 02:51:42,916 - main - ERROR - 处理音频数据时出错: 'function' object has no attribute 'is_set'
+2024-12-11 02:51:42,916 - main - INFO - 音频处理任务结束
+2024-12-11 02:51:42,916 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 242, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/errors.py", line 152, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 362, in handle
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 95, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 93, in app
+    await func(session)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/routing.py", line 383, in app
+    await dependant.call(**solved_result.values)
+  File "/home/huiyu/python_whisper/backend/main.py", line 267, in websocket_endpoint
+    shutdown_event.set()
+AttributeError: 'function' object has no attribute 'set'
+2024-12-11 02:51:42,917 - uvicorn.error - INFO - connection closed
+2024-12-11 02:51:44,115 - uvicorn.error - INFO - ('127.0.0.1', 39372) - "WebSocket /ws" [accepted]
+2024-12-11 02:51:44,115 - main - INFO - WebSocket connection accepted
+2024-12-11 02:51:44,115 - uvicorn.error - INFO - connection open
+2024-12-11 02:51:44,116 - main - ERROR - 处理音频数据时出错: 'function' object has no attribute 'is_set'
+2024-12-11 02:51:44,116 - main - INFO - 音频处理任务结束
+2024-12-11 02:51:44,116 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 242, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/errors.py", line 152, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 362, in handle
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 95, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 93, in app
+    await func(session)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/routing.py", line 383, in app
+    await dependant.call(**solved_result.values)
+  File "/home/huiyu/python_whisper/backend/main.py", line 267, in websocket_endpoint
+    shutdown_event.set()
+AttributeError: 'function' object has no attribute 'set'
+2024-12-11 02:51:44,117 - uvicorn.error - INFO - connection closed
+2024-12-11 02:51:44,235 - uvicorn.error - INFO - ('127.0.0.1', 39376) - "WebSocket /ws" [accepted]
+2024-12-11 02:51:44,235 - main - INFO - WebSocket connection accepted
+2024-12-11 02:51:44,236 - uvicorn.error - INFO - connection open
+2024-12-11 02:51:44,236 - main - ERROR - 处理音频数据时出错: 'function' object has no attribute 'is_set'
+2024-12-11 02:51:44,236 - main - INFO - 音频处理任务结束
+2024-12-11 02:51:44,236 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 242, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/errors.py", line 152, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 362, in handle
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 95, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 93, in app
+    await func(session)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/routing.py", line 383, in app
+    await dependant.call(**solved_result.values)
+  File "/home/huiyu/python_whisper/backend/main.py", line 267, in websocket_endpoint
+    shutdown_event.set()
+AttributeError: 'function' object has no attribute 'set'
+2024-12-11 02:51:44,237 - uvicorn.error - INFO - connection closed
+2024-12-11 02:51:45,285 - uvicorn.error - INFO - ('127.0.0.1', 56170) - "WebSocket /ws" [accepted]
+2024-12-11 02:51:45,285 - main - INFO - WebSocket connection accepted
+2024-12-11 02:51:45,285 - uvicorn.error - INFO - connection open
+2024-12-11 02:51:45,285 - main - ERROR - 处理音频数据时出错: 'function' object has no attribute 'is_set'
+2024-12-11 02:51:45,285 - main - INFO - 音频处理任务结束
+2024-12-11 02:51:45,286 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 242, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/errors.py", line 152, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 362, in handle
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 95, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 93, in app
+    await func(session)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/routing.py", line 383, in app
+    await dependant.call(**solved_result.values)
+  File "/home/huiyu/python_whisper/backend/main.py", line 267, in websocket_endpoint
+    shutdown_event.set()
+AttributeError: 'function' object has no attribute 'set'
+2024-12-11 02:51:45,286 - uvicorn.error - INFO - connection closed
+2024-12-11 02:51:45,434 - uvicorn.error - INFO - ('127.0.0.1', 56184) - "WebSocket /ws" [accepted]
+2024-12-11 02:51:45,435 - main - INFO - WebSocket connection accepted
+2024-12-11 02:51:45,435 - uvicorn.error - INFO - connection open
+2024-12-11 02:51:45,435 - main - ERROR - 处理音频数据时出错: 'function' object has no attribute 'is_set'
+2024-12-11 02:51:45,436 - main - INFO - 音频处理任务结束
+2024-12-11 02:51:45,436 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 242, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/errors.py", line 152, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 362, in handle
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 95, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 93, in app
+    await func(session)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/routing.py", line 383, in app
+    await dependant.call(**solved_result.values)
+  File "/home/huiyu/python_whisper/backend/main.py", line 267, in websocket_endpoint
+    shutdown_event.set()
+AttributeError: 'function' object has no attribute 'set'
+2024-12-11 02:51:45,437 - uvicorn.error - INFO - connection closed
+2024-12-11 02:51:45,554 - uvicorn.error - INFO - ('127.0.0.1', 56194) - "WebSocket /ws" [accepted]
+2024-12-11 02:51:45,555 - main - INFO - WebSocket connection accepted
+2024-12-11 02:51:45,555 - uvicorn.error - INFO - connection open
+2024-12-11 02:51:45,555 - main - ERROR - 处理音频数据时出错: 'function' object has no attribute 'is_set'
+2024-12-11 02:51:45,555 - main - INFO - 音频处理任务结束
+2024-12-11 02:51:45,555 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/protocols/websockets/websockets_impl.py", line 242, in run_asgi
+    result = await self.app(self.scope, self.asgi_receive, self.asgi_send)  # type: ignore[func-returns-value]
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/applications.py", line 1054, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/applications.py", line 113, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/errors.py", line 152, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/cors.py", line 77, in __call__
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/middleware/exceptions.py", line 62, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 715, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 735, in app
+    await route.handle(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 362, in handle
+    await self.app(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 95, in app
+    await wrap_app_handling_exceptions(app, session)(scope, receive, send)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/starlette/routing.py", line 93, in app
+    await func(session)
+  File "/home/huiyu/anaconda3/envs/whisper-env/lib/python3.9/site-packages/fastapi/routing.py", line 383, in app
+    await dependant.call(**solved_result.values)
+  File "/home/huiyu/python_whisper/backend/main.py", line 267, in websocket_endpoint
+    shutdown_event.set()
+AttributeError: 'function' object has no attribute 'set'
+2024-12-11 02:51:45,556 - uvicorn.error - INFO - connection closed
+2024-12-11 02:52:28,502 - uvicorn.error - INFO - Shutting down
+2024-12-11 02:52:28,603 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-11 02:52:28,603 - main - INFO - Application shutting down
+2024-12-11 02:52:28,603 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-11 02:52:28,603 - uvicorn.error - INFO - Finished server process [279397]
+2024-12-11 02:52:29,140 - uvicorn.error - INFO - Started server process [280048]
+2024-12-11 02:52:29,140 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-11 02:52:29,140 - uvicorn.error - INFO - Application startup complete.
+2024-12-11 02:52:29,843 - uvicorn.error - INFO - Shutting down
+2024-12-11 02:52:29,944 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-11 02:52:29,944 - main - INFO - Application shutting down
+2024-12-11 02:52:29,944 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-11 02:52:29,944 - uvicorn.error - INFO - Finished server process [280048]
+2024-12-11 02:52:32,180 - uvicorn.error - INFO - Started server process [280111]
+2024-12-11 02:52:32,181 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-11 02:52:32,181 - uvicorn.error - INFO - Application startup complete.
+2024-12-11 02:52:34,388 - uvicorn.access - INFO - 127.0.0.1:43468 - "GET / HTTP/1.1" 200
+2024-12-11 02:52:37,052 - uvicorn.error - INFO - ('127.0.0.1', 58520) - "WebSocket /ws" [accepted]
+2024-12-11 02:52:37,052 - main - INFO - WebSocket connection accepted
+2024-12-11 02:52:37,053 - uvicorn.error - INFO - connection open
+2024-12-11 02:52:37,582 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=5132.13
+2024-12-11 02:52:37,841 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=5869.18
+2024-12-11 02:52:38,101 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1943.61
+2024-12-11 02:52:38,351 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=3583.78
+2024-12-11 02:52:38,351 - main - INFO - 保存累积音频数据: outputs/temp_1733881958.raw, 时长: 1.02秒
+2024-12-11 02:52:38,364 - main - INFO - 处理结果: []
+2024-12-11 02:52:38,364 - main - INFO - Cleaned up outputs/temp_1733881958.raw
+2024-12-11 02:52:38,611 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1765.65
+2024-12-11 02:52:39,121 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1017.80
+2024-12-11 02:52:39,631 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=944.37
+2024-12-11 02:52:40,141 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=2863.90
+2024-12-11 02:52:40,141 - main - INFO - 保存累积音频数据: outputs/temp_1733881960.raw, 时长: 1.02秒
+2024-12-11 02:52:40,151 - main - INFO - 处理结果: []
+2024-12-11 02:52:40,151 - main - INFO - Cleaned up outputs/temp_1733881960.raw
+2024-12-11 02:52:40,401 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1762.83
+2024-12-11 02:52:40,661 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=944.62
+2024-12-11 02:52:42,711 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=2268.18
+2024-12-11 02:52:42,971 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=2216.04
+2024-12-11 02:52:42,971 - main - INFO - 保存累积音频数据: outputs/temp_1733881962.raw, 时长: 1.02秒
+2024-12-11 02:52:42,981 - main - INFO - 处理结果: []
+2024-12-11 02:52:42,982 - main - INFO - Cleaned up outputs/temp_1733881962.raw
+2024-12-11 02:52:43,741 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=1497.93
+2024-12-11 02:52:43,991 - main - INFO - 音频信息: 采样率=16000Hz, 样本数=4096, 平均音量=596.64
+2024-12-11 02:52:48,942 - uvicorn.error - INFO - Shutting down
+2024-12-11 02:52:48,943 - main - INFO - WebSocket disconnected in audio processing
+2024-12-11 02:52:48,943 - main - INFO - 音频处理任务结束
+2024-12-11 02:52:48,944 - uvicorn.error - INFO - connection closed
+2024-12-11 02:52:48,944 - main - ERROR - 关闭WebSocket连接出错: Unexpected ASGI message 'websocket.close', after sending 'websocket.close' or response already completed.
+2024-12-11 02:52:49,043 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-11 02:52:49,044 - main - INFO - Application shutting down
+2024-12-11 02:52:49,044 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-11 02:52:49,044 - uvicorn.error - INFO - Finished server process [280111]

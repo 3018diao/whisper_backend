@@ -1,0 +1,10 @@
+2024-12-11 02:59:17,691 - __mp_main__ - INFO - 服务启动，日志文件: logs/app_20241211_025917.log
+2024-12-11 02:59:17,721 - main - INFO - 服务启动，日志文件: logs/app_20241211_025917.log
+2024-12-11 02:59:17,725 - uvicorn.error - INFO - Started server process [284686]
+2024-12-11 02:59:17,725 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-11 02:59:17,725 - uvicorn.error - INFO - Application startup complete.
+2024-12-11 02:59:25,348 - uvicorn.error - INFO - Shutting down
+2024-12-11 02:59:25,449 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-11 02:59:25,449 - main - INFO - Application shutting down
+2024-12-11 02:59:25,449 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-11 02:59:25,449 - uvicorn.error - INFO - Finished server process [284686]
